@@ -206,6 +206,11 @@ li a {
     position: relative;
 
 }
+
+  .navFooterVerticalColumn li{
+    list-style: none;
+}
+
   /*****************Footer**********************/
 
 /*****************HOMEPAGE STYLING**********************/
